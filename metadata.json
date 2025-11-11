@@ -1,0 +1,8 @@
+{
+  "name": "Copy of QRcheck",
+  "description": "A modern, free time-tracking system for companies. Admins generate a daily QR code, and employees scan it to check in and out, capturing their IP and GPS location to prevent fraud.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
